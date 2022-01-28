@@ -42,7 +42,7 @@ public class Folder implements FileItem {
     // Then, the size of folder1 = 512 + 128*3 + 200 + 300 + 150 = 1546.
     public int calculateSize() {
         // YOUR CODE HERE
-        return -1;
+        return 0;
     }
 
     // Creates a copy of the current FileItem
